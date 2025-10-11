@@ -1,6 +1,3 @@
 server-app/.idea/*
 server-app/target/*
 server-app/.mvn/*
-server-app/src/main/resources/application.properties
-front-end/node_modules/*
-front-end/.env
