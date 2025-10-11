@@ -1,6 +1,6 @@
-package com.flagguesser.serverapp;
+package io.github.skeffy.flagguesser;
 
-import com.flagguesser.serverapp.dao.FlagDao;
+import io.github.skeffy.flagguesser.dao.FlagDao;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

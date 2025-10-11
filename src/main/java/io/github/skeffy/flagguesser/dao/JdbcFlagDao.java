@@ -1,7 +1,7 @@
-package com.flagguesser.serverapp.dao;
+package io.github.skeffy.flagguesser.dao;
 
-import com.flagguesser.serverapp.exception.DaoException;
-import com.flagguesser.serverapp.model.Flag;
+import io.github.skeffy.flagguesser.exception.DaoException;
+import io.github.skeffy.flagguesser.model.Flag;
 import javax.sql.DataSource;
 import org.springframework.jdbc.CannotGetJdbcConnectionException;
 import org.springframework.jdbc.core.JdbcTemplate;

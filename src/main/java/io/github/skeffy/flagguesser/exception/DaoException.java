@@ -1,4 +1,4 @@
-package com.flagguesser.serverapp.exception;
+package io.github.skeffy.flagguesser.exception;
 
 public class DaoException extends RuntimeException {
     public DaoException() {

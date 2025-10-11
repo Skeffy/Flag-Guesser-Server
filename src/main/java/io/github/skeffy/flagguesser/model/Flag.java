@@ -1,4 +1,4 @@
-package com.flagguesser.serverapp.model;
+package io.github.skeffy.flagguesser.model;
 
 public class Flag {
 

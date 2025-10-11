@@ -1,4 +1,4 @@
-package com.flagguesser.serverapp;
+package io.github.skeffy.flagguesser;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

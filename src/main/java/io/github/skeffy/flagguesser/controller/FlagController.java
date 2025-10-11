@@ -1,8 +1,8 @@
-package com.flagguesser.serverapp.controller;
+package io.github.skeffy.flagguesser.controller;
 
-import com.flagguesser.serverapp.DailyId;
-import com.flagguesser.serverapp.dao.FlagDao;
-import com.flagguesser.serverapp.model.Flag;
+import io.github.skeffy.flagguesser.DailyId;
+import io.github.skeffy.flagguesser.dao.FlagDao;
+import io.github.skeffy.flagguesser.model.Flag;
 
 import java.util.Random;
 import java.util.concurrent.Executors;

@@ -1,4 +1,4 @@
-package com.flagguesser.serverapp.dao;
+package io.github.skeffy.flagguesser.dao;
 
 import org.junit.After;
 import org.junit.runner.RunWith;

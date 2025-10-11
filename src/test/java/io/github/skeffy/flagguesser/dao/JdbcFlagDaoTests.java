@@ -1,6 +1,6 @@
-package com.flagguesser.serverapp.dao;
+package io.github.skeffy.flagguesser.dao;
 
-import com.flagguesser.serverapp.model.Flag;
+import io.github.skeffy.flagguesser.model.Flag;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
