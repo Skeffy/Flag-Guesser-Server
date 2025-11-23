@@ -38,7 +38,6 @@ public class SecurityConfig {
         config.addAllowedOrigin("*");
         config.addAllowedMethod("*"); // Allow all HTTP methods
         config.addAllowedHeader("*"); // Allow all headers
-        config.setAllowCredentials(true); // Allow credentials (cookies, authorization headers)
 
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
         source.registerCorsConfiguration("/**", config);
